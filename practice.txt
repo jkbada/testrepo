@@ -2,3 +2,9 @@
 
 
 I am making first change to my project
+
+This is my second change
+
+And third
+
+These changes will be committed in a new branch
